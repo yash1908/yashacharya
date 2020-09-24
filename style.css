@@ -130,6 +130,12 @@
     }
 }
 
+@media screen and (min-width: 400px){
+    .social{
+        display: none;
+    }
+}
+
 @media screen and (max-width: 500px){
     #header{
         display: none!important; 
