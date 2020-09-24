@@ -58,6 +58,7 @@
     width: 100%;
     z-index:9;
     transition: left .5s ease;
+    overflow: auto;
 }
 
 #header nav{
