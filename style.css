@@ -128,10 +128,6 @@
     }
 }
 
-@media screen and (max-width: 35px){
-    .toggle-button{
-        display: none;
-    }
-}
+
 
 
