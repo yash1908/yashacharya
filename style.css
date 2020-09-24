@@ -81,7 +81,7 @@
 
 #header .toggle-button{
     background: none;
-    color: var(--color-white);
+    color: white;
     position: fixed;
     top: 25px;
     right: 20px;
