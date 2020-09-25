@@ -124,13 +124,13 @@
 }
 
 
-@media screen and (min-width: 400px){
+@media screen and (min-width: 300px){
     .toggle-button{
         display: none;
     }
 }
 
-@media screen and (min-width: 400px){
+@media screen and (min-width: 300px){
     .social{
         display: none;
     }
